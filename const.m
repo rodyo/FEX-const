@@ -37,7 +37,7 @@
 % E-mail     : oldenhuis@gmail.com    (personal)
 %              oldenhuis@luxspace.lu  (professional)
 % Affiliation: LuxSpace sàrl
-% Licence    : GPL + anything implied by placing it on the FEX
+% Licence    : BSD
 
 
 % If you find this work useful and want to show your appreciation:
