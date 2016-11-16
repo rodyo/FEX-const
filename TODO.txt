@@ -1,0 +1,1 @@
+multi-dimensional consts; it makes for a much more complicated subsasgn(), but well, why not?
